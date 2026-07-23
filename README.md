@@ -1,6 +1,6 @@
 # Rafael Martins
 
-Estudante do 6º período de Ciência da Computação na Universidade Federal do Rio de Janeiro (UFRJ). Tenho experiência atuando em projetos que vão desde o desenvolvimento de jogos e prototipação de interfaces até análise de dados.
+Estudante do 5º período de Ciência da Computação na Universidade Federal do Rio de Janeiro (UFRJ). Tenho experiência atuando em projetos que vão desde o desenvolvimento de jogos e prototipação de interfaces até análise de dados.
 
 **Atualmente aprendendo:** Aprofundando conhecimentos na engine Godot e avançando em Análise de Dados. Paralelamente, explorando o desenvolvimento backend com o framework Django.
 
