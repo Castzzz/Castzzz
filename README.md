@@ -1,4 +1,8 @@
-# Rafael Martins
+<div align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=false&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Rafael+Martins!;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UFRJ;Game+Dev+%7C+Data+Analysis+%7C+Backend" alt="Typing SVG" />
+  </a>
+</div>
 
 <p>
   <a href="https://www.linkedin.com/in/rafael-martins-ferreira-156242284/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
