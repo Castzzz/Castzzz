@@ -22,10 +22,6 @@ Estudante do 5º período de Ciência da Computação na Universidade Federal do
 * **Recyfy:** Idealização de uma plataforma gamificada de incentivo à reciclagem, envolvendo a prototipação de UI/UX no Figma e a elaboração de pitch de negócios.
 * **For_Code:** Atuação na equipe de projetos, desenvolvendo relatórios de necessidades e estruturando planos de treinamento.
 
-## Contato
-
-* **LinkedIn:** https://www.linkedin.com/in/rafael-martins-ferreira-156242284/
-* **E-Mail:** rafael.rmf2020@gmail.com
 
 <!--
 **Castzzz/Castzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
