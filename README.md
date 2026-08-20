@@ -1,5 +1,10 @@
 # Rafael Martins
 
+<p>
+  <a href="https://www.linkedin.com/in/rafael-martins-ferreira-156242284/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rafael.rmf2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
+
 Estudante do 5º período de Ciência da Computação na Universidade Federal do Rio de Janeiro (UFRJ). Tenho experiência atuando em projetos que vão desde o desenvolvimento de jogos e prototipação de interfaces até análise de dados.
 
 **Atualmente aprendendo:** Aprofundando conhecimentos na engine Godot e avançando em Análise de Dados. Paralelamente, explorando o desenvolvimento backend com o framework Django.
